@@ -111,7 +111,7 @@ sudo nano /etc/adu/du-config.json
       "runas": "adu",
       "connectionSource": {
          "connectionType": "string",
-         "connectionData": "HostName=example-connection-string.azure-devices.net;DeviceId=example-device;SharedAccessKey=M5oK/rOP12aB5678YMWv5vFWHFGJFwE8YU6u0uTnrmU=" 
+         "connectionData": "HostName=example-connection-string.azure-devices.net;DeviceId=example-device;SharedAccessKey=qwertyu" 
       },
       "manufacturer": "contoso",
       "model": "virtual-vacuum-v2"
