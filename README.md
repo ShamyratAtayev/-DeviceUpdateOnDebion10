@@ -1,7 +1,6 @@
+# Azure Device Update
 
-# Azure Device Update Readme.md
-
-A tutorial on how to install and apply ADU to Debian 10
+# Manual installation of ADU on Debian 10
 
 ## Documentation
 
