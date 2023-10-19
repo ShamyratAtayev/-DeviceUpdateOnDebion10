@@ -3,7 +3,6 @@
 
 A tutorial on how to install and apply ADU to Debian 10
 
-
 ## Documentation
 
  - [Create and provision an IoT Edge device on Linux using symmetric keys](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-provision-single-device-linux-symmetric?view=iotedge-1.4&amp%3Btabs=azure-portal%2Cubuntu&tabs=azure-portal%2Cubuntu)
